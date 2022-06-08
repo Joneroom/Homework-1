@@ -3,7 +3,6 @@
 - Hello, I am 20 _years old_.
   - Now I am studying at the WebAcademy as a Front End Specialist.
 
-   <sub> eng </sub>
 
 **I am a final year university student majoring in** "_Public administration and management_"
 
